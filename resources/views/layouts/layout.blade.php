@@ -49,7 +49,7 @@
                                     </div>
                                 </li>
                                 <li class="nav-item nav-link">
-                                    <a href="#" class="header-link">Контакты</a>
+                                    <a href="#footer" class="header-link">Контакты</a>
                                 </li>
                                 <li class="nav-item nav-link">
                                     <a href="#" class="header-link">Оплата и доставка</a>

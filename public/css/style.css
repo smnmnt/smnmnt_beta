@@ -457,6 +457,9 @@ button {
 .catalogue {
   padding: 40px 0;
 }
+.catalogue-card a {
+    width: inherit;
+}
 .catalogue-title {
   margin-bottom: 40px;
 }
